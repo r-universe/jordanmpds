@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "sodaR"]
 	path = sodaR
-	url = https://github.com/jordanmpds/sodar
+	url = https://github.com/cran/sodaR
